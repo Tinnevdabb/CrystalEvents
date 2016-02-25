@@ -19,7 +19,24 @@ namespace CrystalEvents
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
-            
+
+
+            //Set webpages "behind" button
+            Button Facebook = FindViewById<Button>(Resource.Id.btnFb);
+            Facebook.Click += (object sender, EventArgs e) => {
+                StartActivity(new Intent(Intent.ActionView, Android.Net.Uri.Parse("https://www.facebook.com/CrystalEventsAntwerp/?fref=ts")));
+            };
+
+            Button Instagram = FindViewById<Button>(Resource.Id.btnInsta);
+            Instagram.Click += (object sender, EventArgs e) => {
+                StartActivity(new Intent(Intent.ActionView, Android.Net.Uri.Parse("https://www.instagram.com/crystaleventsantwerp/")));
+            };
+
+            Button Youtube = FindViewById<Button>(Resource.Id.btnYt);
+            Youtube.Click += (object sender, EventArgs e) => {
+                StartActivity(new Intent(Intent.ActionView, Android.Net.Uri.Parse("https://www.youtube.com/channel/UCBIYc_rS7rK661AaPRqDhYQ")));
+            };
+
         }
     }
 }
