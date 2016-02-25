@@ -1,0 +1,8 @@
+﻿<resources>
+  <style name="Theme.Splash" parent="android:Theme.Material.Light">
+    <item name="android:windowBackground">@drawable/SplashBackground</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:width">143.3dip</item>
+    <item name="android:height">101.7dip</item>
+  </style>
+</resources>

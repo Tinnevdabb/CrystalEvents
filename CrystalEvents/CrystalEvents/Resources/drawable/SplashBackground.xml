@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:drawable="@drawable/splash">
+    <shape android:shape="rectangle"
+		android:gravity="center"
+		android:layout_gravity="center"
+		android:tileMode="disabled"/>
+    />
+  </item>
+
+  <!--<item>
+		<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+		android:src="@drawable/logo"
+		android:gravity="center"
+		android:layout_width="50dp"
+		android:layout_height="50dp"
+		android:tileMode="disabled"
+		android:layout_gravity="center"
+		android:top="20dp" android:bottom="20dp"
+      	android:right="20dp" android:left="20dp"/>
+	</item>-->
+</layer-list>
+
