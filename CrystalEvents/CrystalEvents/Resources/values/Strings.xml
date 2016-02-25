@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Hello">Hello World, Click Me!</string>
-    <string name="ApplicationName">CrystalEvents</string>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">CrystalEvents</string>
+
+  <string name="btnAbout">About</string>
+  <string name="btnEvents">Events</string>
+  <string name="btnContacts">Contacts</string>
+  <string name="btnArtists">Artists</string>
+  <string name="homeFindUs">Find us on:</string>
 </resources>
