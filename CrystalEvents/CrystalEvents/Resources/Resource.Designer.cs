@@ -51,13 +51,28 @@ namespace CrystalEvents
 			public const int Icon = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int monoandroidsplash = 2130837506;
+			public const int iconfb = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int splash = 2130837507;
+			public const int iconinsta = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int SplashBackground = 2130837508;
+			public const int iconyt = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int logoZwart = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int monoandroidsplash = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int mybutton = 2130837511;
+			
+			// aapt resource value: 0x7f020008
+			public const int splash = 2130837512;
+			
+			// aapt resource value: 0x7f020009
+			public const int SplashBackground = 2130837513;
 			
 			static Drawable()
 			{
@@ -73,7 +88,25 @@ namespace CrystalEvents
 		{
 			
 			// aapt resource value: 0x7f060000
-			public const int MyButton = 2131099648;
+			public const int btnAbout = 2131099648;
+			
+			// aapt resource value: 0x7f060002
+			public const int btnArtists = 2131099650;
+			
+			// aapt resource value: 0x7f060003
+			public const int btnContacts = 2131099651;
+			
+			// aapt resource value: 0x7f060001
+			public const int btnEvents = 2131099649;
+			
+			// aapt resource value: 0x7f060004
+			public const int btnFb = 2131099652;
+			
+			// aapt resource value: 0x7f060005
+			public const int btnInsta = 2131099653;
+			
+			// aapt resource value: 0x7f060006
+			public const int btnYt = 2131099654;
 			
 			static Id()
 			{
@@ -109,6 +142,21 @@ namespace CrystalEvents
 			
 			// aapt resource value: 0x7f040000
 			public const int Hello = 2130968576;
+			
+			// aapt resource value: 0x7f040002
+			public const int btnAbout = 2130968578;
+			
+			// aapt resource value: 0x7f040005
+			public const int btnArtists = 2130968581;
+			
+			// aapt resource value: 0x7f040004
+			public const int btnContacts = 2130968580;
+			
+			// aapt resource value: 0x7f040003
+			public const int btnEvents = 2130968579;
+			
+			// aapt resource value: 0x7f040006
+			public const int homeFindUs = 2130968582;
 			
 			static String()
 			{
