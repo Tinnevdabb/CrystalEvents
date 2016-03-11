@@ -8,4 +8,26 @@
   <string name="btnContacts">Contacts</string>
   <string name="btnArtists">Artists</string>
   <string name="homeFindUs">Find us on:</string>
+
+  <string name="btnBack">Back</string>
+
+  <string name="eventsTitle">EVENTS</string>
+
+  <string name="empTitle">EMPLOYEES</string>
+
+  <string name="artistsTitle">ARTISTS</string>
+
+  <string name="contactTitle">CONTACTS</string>
+  <string name="btnPractical">Practical</string>
+  <string name="btnLinup">Line up</string>
+  <string name="btnSponsors">Sponsors</string>
+  <string name="btnTickets">Tickets</string>
+
+
+
+  <string name="btnBD">Bar Deep</string>
+  <string name="btnLost">Lost</string>
+  <string name="btnVF">Vice Festival</string>
+  <string name="btnVI">Vice Indoor</string>
+  <string name="btnSP">Street Party</string>
 </resources>
