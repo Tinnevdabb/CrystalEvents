@@ -48,31 +48,52 @@ namespace CrystalEvents
 			public const int background = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int Icon = 2130837505;
+			public const int bar_deep_logo = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int iconfb = 2130837506;
+			public const int crystalcruise = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int iconinsta = 2130837507;
+			public const int eventsbutton = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int iconyt = 2130837508;
+			public const int Icon = 2130837508;
 			
 			// aapt resource value: 0x7f020005
-			public const int logoZwart = 2130837509;
+			public const int iconagenda = 2130837509;
 			
 			// aapt resource value: 0x7f020006
-			public const int monoandroidsplash = 2130837510;
+			public const int iconfb = 2130837510;
 			
 			// aapt resource value: 0x7f020007
-			public const int mybutton = 2130837511;
+			public const int iconinsta = 2130837511;
 			
 			// aapt resource value: 0x7f020008
-			public const int splash = 2130837512;
+			public const int iconyt = 2130837512;
 			
 			// aapt resource value: 0x7f020009
-			public const int SplashBackground = 2130837513;
+			public const int logoZwart = 2130837513;
+			
+			// aapt resource value: 0x7f02000a
+			public const int lost = 2130837514;
+			
+			// aapt resource value: 0x7f02000b
+			public const int mybutton = 2130837515;
+			
+			// aapt resource value: 0x7f02000c
+			public const int pijl = 2130837516;
+			
+			// aapt resource value: 0x7f02000d
+			public const int splash = 2130837517;
+			
+			// aapt resource value: 0x7f02000e
+			public const int SplashBackground = 2130837518;
+			
+			// aapt resource value: 0x7f02000f
+			public const int vice = 2130837519;
+			
+			// aapt resource value: 0x7f020010
+			public const int vicefestival = 2130837520;
 			
 			static Drawable()
 			{
@@ -87,26 +108,44 @@ namespace CrystalEvents
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060000
-			public const int btnAbout = 2131099648;
+			// aapt resource value: 0x7f060006
+			public const int btnAbout = 2131099654;
 			
-			// aapt resource value: 0x7f060002
-			public const int btnArtists = 2131099650;
-			
-			// aapt resource value: 0x7f060003
-			public const int btnContacts = 2131099651;
-			
-			// aapt resource value: 0x7f060001
-			public const int btnEvents = 2131099649;
-			
-			// aapt resource value: 0x7f060004
-			public const int btnFb = 2131099652;
+			// aapt resource value: 0x7f060008
+			public const int btnArtists = 2131099656;
 			
 			// aapt resource value: 0x7f060005
-			public const int btnInsta = 2131099653;
+			public const int btnBack = 2131099653;
 			
-			// aapt resource value: 0x7f060006
-			public const int btnYt = 2131099654;
+			// aapt resource value: 0x7f060009
+			public const int btnContacts = 2131099657;
+			
+			// aapt resource value: 0x7f060007
+			public const int btnEvents = 2131099655;
+			
+			// aapt resource value: 0x7f060000
+			public const int btnEventsBD = 2131099648;
+			
+			// aapt resource value: 0x7f060001
+			public const int btnEventsL = 2131099649;
+			
+			// aapt resource value: 0x7f060003
+			public const int btnEventsSP = 2131099651;
+			
+			// aapt resource value: 0x7f060004
+			public const int btnEventsVF = 2131099652;
+			
+			// aapt resource value: 0x7f060002
+			public const int btnEventsVI = 2131099650;
+			
+			// aapt resource value: 0x7f06000a
+			public const int btnFb = 2131099658;
+			
+			// aapt resource value: 0x7f06000b
+			public const int btnInsta = 2131099659;
+			
+			// aapt resource value: 0x7f06000c
+			public const int btnYt = 2131099660;
 			
 			static Id()
 			{
@@ -122,7 +161,10 @@ namespace CrystalEvents
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Main = 2130903040;
+			public const int Events = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int Main = 2130903041;
 			
 			static Layout()
 			{
@@ -143,17 +185,59 @@ namespace CrystalEvents
 			// aapt resource value: 0x7f040000
 			public const int Hello = 2130968576;
 			
+			// aapt resource value: 0x7f04000a
+			public const int artistsTitle = 2130968586;
+			
 			// aapt resource value: 0x7f040002
 			public const int btnAbout = 2130968578;
 			
 			// aapt resource value: 0x7f040005
 			public const int btnArtists = 2130968581;
 			
+			// aapt resource value: 0x7f040010
+			public const int btnBD = 2130968592;
+			
+			// aapt resource value: 0x7f040007
+			public const int btnBack = 2130968583;
+			
 			// aapt resource value: 0x7f040004
 			public const int btnContacts = 2130968580;
 			
 			// aapt resource value: 0x7f040003
 			public const int btnEvents = 2130968579;
+			
+			// aapt resource value: 0x7f04000d
+			public const int btnLinup = 2130968589;
+			
+			// aapt resource value: 0x7f040011
+			public const int btnLost = 2130968593;
+			
+			// aapt resource value: 0x7f04000c
+			public const int btnPractical = 2130968588;
+			
+			// aapt resource value: 0x7f040014
+			public const int btnSP = 2130968596;
+			
+			// aapt resource value: 0x7f04000e
+			public const int btnSponsors = 2130968590;
+			
+			// aapt resource value: 0x7f04000f
+			public const int btnTickets = 2130968591;
+			
+			// aapt resource value: 0x7f040012
+			public const int btnVF = 2130968594;
+			
+			// aapt resource value: 0x7f040013
+			public const int btnVI = 2130968595;
+			
+			// aapt resource value: 0x7f04000b
+			public const int contactTitle = 2130968587;
+			
+			// aapt resource value: 0x7f040009
+			public const int empTitle = 2130968585;
+			
+			// aapt resource value: 0x7f040008
+			public const int eventsTitle = 2130968584;
 			
 			// aapt resource value: 0x7f040006
 			public const int homeFindUs = 2130968582;
@@ -170,9 +254,6 @@ namespace CrystalEvents
 		
 		public partial class Style
 		{
-			
-			// aapt resource value: 0x7f050001
-			public const int Mono_Android_Theme_Splash = 2131034113;
 			
 			// aapt resource value: 0x7f050000
 			public const int Theme_Splash = 2131034112;

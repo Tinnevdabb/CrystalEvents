@@ -21,6 +21,13 @@ namespace CrystalEvents
             SetContentView(Resource.Layout.Main);
 
 
+            Button Events = FindViewById<Button>(Resource.Id.btnEvents);
+            Events.Click += delegate {
+                StartActivity(typeof(EventsActivity));
+            };
+
+
+
             //Set webpages "behind" button
             Button Facebook = FindViewById<Button>(Resource.Id.btnFb);
             Facebook.Click += (object sender, EventArgs e) => {
